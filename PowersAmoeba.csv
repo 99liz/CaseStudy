@@ -1,0 +1,49 @@
+Day,Amoeba,Toxin,reading,stdev
+0,Vannella,High,6579.23,463.862049
+0,Vannella,Medium,6757.23,4.24264069
+0,Vannella,Low,6801.23,91.9238816
+0,Vannella,Control,6833.73,36.0624458
+0,Vannella Simplex,High,6709.73,72.8319985
+0,Vannella Simplex,Medium,7198.23,63.6396103
+0,Vannella Simplex,Low,7200.23,49.4974747
+0,Vannella Simplex,Control,7163.23,21.2132034
+0,Krotonovella,High,7787.23,114.551299
+0,Krotonovella,Medium,7986.73,119.501046
+0,Krotonovella,Low,8077.73,4.94974747
+0,Krotonovella,Control,8106.73,74.246212
+4,Vannella,High,13664.13,617.30422
+4,Vannella,Medium,7628.13,8758.9317
+4,Vannella,Low,15535.13,31.8198052
+4,Vannella,Control,15115.13,225.567063
+4,Vannella Simplex,High,15810.63,538.815367
+4,Vannella Simplex,Medium,12680,80933.3209
+4,Vannella Simplex,Low,12680.13,516.895057
+4,Vannella Simplex,Control,12740.63,555.78593
+4,Krotonovella,High,14752.63,455.376767
+4,Krotonovella,Medium,15349.13,542.350901
+4,Krotonovella,Low,15822.63,538.815367
+4,Krotonovella,Control,14178.13,234.052345
+7,Vannella,High,14384.08,1856.1553
+7,Vannella,Medium,13810.58,572.756493
+7,Vannella,Low,13102.58,1022.47641
+7,Vannella,Control,15944.58,1062.07439
+7,Vannella Simplex,High,11337.58,1439.66941
+7,Vannella Simplex,Medium,11183.58,680.236724
+7,Vannella Simplex,Low,11898.08,1720.3908
+7,Vannella Simplex,Control,14353.08,200.111219
+7,Krotonovella,High,13948.58,1547.14964
+7,Krotonovella,Medium,13588.08,1564.82731
+7,Krotonovella,Low,14539.08,1332.89628
+7,Krotonovella,Control,15976.08,548.007755
+9,Vannella,High,7484.37,1151.16984
+9,Vannella,Medium,7793.37,97.5807358
+9,Vannella,Low,9677.37,313.955411
+9,Vannella,Control,10976.87,30.4055916
+9,Vannella Simplex,High,8309.87,802.566197
+9,Vannella Simplex,Medium,7385.37,787.716954
+9,Vannella Simplex,Low,7139.87,1067.02413
+9,Vannella Simplex,Control,8860.37,45.254834
+9,Krotonovella,High,10199.87,1553.5136
+9,Krotonovella,Medium,12037.37,3273.9044
+9,Krotonovella,Low,10949.37,1351.98817
+9,Krotonovella,Control,11286.37,117.379726
